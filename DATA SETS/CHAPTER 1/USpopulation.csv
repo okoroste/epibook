@@ -1,0 +1,21 @@
+age,race,percent
+65+ yrs,White,22
+55-64yrs,White,15
+35-54yrs,White,25
+19-34yrs,White,19
+0-18yrs,White,19
+65+ yrs,Hispanic,8
+55-64yrs,Hispanic,9
+35-54yrs,Hispanic,27
+19-34yrs,Hispanic,25
+0-18yrs,Hispanic,31
+65+ yrs,Black,13
+55-64yrs,Black,12
+35-54yrs,Black,26
+19-34yrs,Black,23
+0-18yrs,Black,25
+65+ yrs,Asian,15
+55-64yrs,Asian,12
+35-54yrs,Asian,32
+19-34yrs,Asian,22
+0-18yrs,Asian,20
